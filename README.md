@@ -3,7 +3,7 @@ An air powered piston engine that can be used for many things, but I won't actua
 
 This thig wasn't particularly difficult to make, but i have a feeling that something will go terribly wrong when i'll test it, especially because i made it so small that even the smallest o rings that i have might not fit in. For now, it is only 3d-printable, but i will probably substitute the cylindrical shapes like the crankshaft and piston rod with screws, and fit a bearing for the crankshaft, things that should improve efficiency and reliability.
 
-Now a few pictures of the engine:
+A few pictures of the engine:
 <img width="955" height="716" alt="image" src="https://github.com/user-attachments/assets/a0bc3545-c595-4a68-8d21-123994885bd1" />
 <img width="1241" height="801" alt="image" src="https://github.com/user-attachments/assets/953a0412-ee16-4b41-94f2-c366a9f7cfa2" />
 <img width="1214" height="740" alt="image" src="https://github.com/user-attachments/assets/3a76e0d0-5778-45d9-8206-33f62e41a122" />
@@ -24,3 +24,7 @@ Or, you can just use something like this, which i think uses 3d printed 1-way ba
 <img width="388" height="281" alt="Screenshot 2026-02-28 211514" src="https://github.com/user-attachments/assets/8548b7e7-61f3-4ff7-a92a-4d712d8606eb" />
 
 I will design some in the future(again, if this is against any rules i'm sorry)
+
+After the "how?", let's get into the "why?":
+
+I started this project because in the past few years, cars have been a big part of my life. Not driving them, but watching, learning how engines work and such. Because i am not skkilled enough to make a 2 stroke engine from scratch, I resorted to making this: a little compressed air engine. I know this is no car engine, but it's a comfortable start, and i hope i will learn a lot of things.
