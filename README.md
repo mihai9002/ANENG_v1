@@ -27,4 +27,4 @@ I will design some in the future(again, if this is against any rules i'm sorry)
 
 After the "how?", let's get into the "why?":
 
-I started this project because in the past few years, cars have been a big part of my life. Not driving them, but watching, learning how engines work and such. Because i am not skkilled enough to make a 2 stroke engine from scratch, I resorted to making this: a little compressed air engine. I know this is no car engine, but it's a comfortable start, and i hope i will learn a lot of things.
+I started this project because in the past few years, cars have been a big part of my life. Not driving them, but watching, learning how engines work and such. Because i am not skkilled enough to make a combustion engine from scratch, I resorted to making this: a little compressed air engine. I know this is no car engine, but it's a comfortable start, and i hope i will learn a lot of things.
