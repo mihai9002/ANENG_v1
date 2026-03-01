@@ -1,7 +1,7 @@
 # ANENG_v1
 An air powered piston engine that can be used for many things, but I won't actually use it for anything
 
-This thig wasn't particularly difficult to make, but i have a feeling that something will go terribly wrong when i'll test it, especially because i made it so small that even the smallest o rings that i have might not fit in. For now, it is only 3d-printable, but i will probably substitute the cylindrical shapes like the crankshaft and piston rod with screws, and fit a bearing for the crankshaft, things that should improve efficiency and reliability.
+This thig wasn't particularly difficult to make, but i have a feeling that something will go terribly wrong when i'll test it, especially because i made it so small that even the smallest o rings that i have might not fit in. For now, the moving parts are made out of PLA plastic, but i will probably substitute the cylindrical shapes like the crankshaft and piston rod with screws, and fit a bearing for the crankshaft, things that should improve efficiency and reliability.
 
 A few pictures of the engine:
 <img width="955" height="716" alt="image" src="https://github.com/user-attachments/assets/a0bc3545-c595-4a68-8d21-123994885bd1" />
