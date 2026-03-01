@@ -13,7 +13,7 @@ There are a few things to add:
 - The engine in this version might very well not work, i'm just submitting this design and beginning all the testing after(if this is against blueprint rules I'm very sorry for losing your time)
 - Assembly should be pretty simple, except for the small o ring, since you might need some tweezers to be able to put that in it's little nook
 
-Now, to talk about the air reservoir: Because i don't think everybody has an air compressor at home, I'll usr a soda bottle as an air tank, and that should be more challenging, which is going to make me try to optimise this engine as much as possible, as I want this to run for as much time as it can. I am going to put some youtube tutorials that i find pretty helpful:
+Now, to talk about the air reservoir: Because i don't think everybody has an air compressor at home, I'll use a soda bottle as an air tank, and that should be more challenging, which is going to make me try to optimise this engine as much as possible, as I want this to run for as much time as it can. I am going to put some youtube tutorials that i find pretty helpful:
 
 https://www.youtube.com/watch?v=tGxOnuNxDoQ (bottle splicing, if you want to make a bigger reservoir out of 2 bottles)
 
